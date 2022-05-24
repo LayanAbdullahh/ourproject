@@ -6,7 +6,7 @@ We set up a Node js server to run the core system of the machine learning (fastt
 
 # HTML
 
-![html page](https://user-images.githubusercontent.com/105516266/170036320-5a33c7cc-79d6-4e92-b9f8-3439ffb5acbb.png)
+![html](https://user-images.githubusercontent.com/105516266/170081096-8baf2eec-7e3e-4ac7-b52a-a3c2b1dd034f.png)
 
 # OutPut (results)
 

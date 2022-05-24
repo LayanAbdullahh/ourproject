@@ -1,3 +1,24 @@
 # ourproject
 
-our project is training on machine learning applicatin and test process
+The purpose of this task in ourproject is developing a web-based machine learning system for simple text classification.
+
+We set up a Node js server to run the core system of the machine learning (fasttext tool for text classification) on input from a user. 
+
+# HTML
+
+![html page](https://user-images.githubusercontent.com/105516266/170036320-5a33c7cc-79d6-4e92-b9f8-3439ffb5acbb.png)
+
+# OutPut (results)
+
+
+![output](https://user-images.githubusercontent.com/105516266/170036668-aceb0921-5016-46ce-8eba-534a49b71f34.PNG)
+
+# Test results
+
+
+![result](https://user-images.githubusercontent.com/105516266/170037136-6961c166-0d9c-4e60-b7ee-3268c819a0d5.png)
+
+
+# Prepared By:
+
+LayanAbdullahh

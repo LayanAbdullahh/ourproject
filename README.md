@@ -21,4 +21,14 @@ We set up a Node js server to run the core system of the machine learning (fastt
 
 # Prepared By:
 
-LayanAbdullahh
+Layan abdullah Alshanfari 
+lamalshanfari@sm.imamu.edu.sa
+
+Tahani Alotaibi
+tikalotaibi61@sm.imamu.edu.sa
+
+Ruba Saleh
+Rsaalrashed@sm.imamu.edu.sa
+
+Amwaj Almutairi
+amzalmutari@sm.imamu.edu.sa
